@@ -21,7 +21,7 @@ Documentation: https://remingtongraphics.net/tools/d-noise/
 
 ### **System Requirements**
 - Blender 2.80
-- Windows 8 or 10
+- Linux
 - NVIDIA GTX 600 Series or newer
 - GeForce driver version 390.xx or newer
 
